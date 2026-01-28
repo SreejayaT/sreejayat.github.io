@@ -23,14 +23,16 @@ My interests include building ML pipelines and model development for research fo
 ## Projects
 
 ### Disease Detection in UAV Imagery
-- Built 768×768 subplots from orthomosaics
-- Worked with multispectral data
-- Trained deep learning models for classification
+**Problem:** Identify diseased regions in orthomosaic imagery  
+**Data:** Multispectral UAV images  
+**Method:** Subplot extraction, CNN / ViT models  
+**Result:** Binary classification of healthy vs diseased regions 
 
 ### Smart Weather Gradio
  - Built a gradio interface that takes input weather data and outputs messages or warnings for the given data.
  - Used automated data retrieval from live API calls and visualized (Requests, Geopy, Pandas and Matplotlib)
- - 
+🔗 **GitHub Repository:**  
+[Smartweather_Gradio](https://github.com/SreejayaT/Smartweather_Gradio)
 
 ---
 
