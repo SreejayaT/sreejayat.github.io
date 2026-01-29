@@ -1,5 +1,5 @@
 # Sreejaya T
-### Machine Learning | Deep Learning | Computer Vision
+### Machine Learning | Deep Learning | Transfer Learning | Vision Models
 
 Passionate about the space where research meets real-world applications. With a background that blends science, data, and AI, I explore how machine learning and deep learning can turn complex information into meaningful insights.
 Always curious, always learning, and always open to conversations about AI, applied research, and innovation.
