@@ -7,9 +7,9 @@ Always curious, always learning, and always open to conversations about AI, appl
 
 
 ## About
-With a foundation in science and hands-on experience in machine learning and deep learning, my work spans the full ML lifecycle—dataset generation and curation, preprocessing and labeling, baseline CNN modeling, hybrid CNN–Vision Transformer architectures, training, evaluation, and analysis—with a strong emphasis on reproducibility and experimentation.
+With a foundation in science and hands-on experience in machine learning and deep learning, I work across the ML lifecycle—from dataset creation and preprocessing to CNN and hybrid CNN–Vision Transformer modeling, training, and evaluation—emphasizing reproducibility and careful experimentation.
 
-I’m particularly interested in applied ML and research-driven roles where understanding model behavior is as important as performance. I enjoy working on problems that bridge theory and deployment, and I’m open to opportunities as a Machine Learning Engineer, Applied Researcher, or Data Scientist in teams that value thoughtful innovation, rigorous experimentation, and real-world impact.
+I’m interested in applied ML and research-driven roles that bridge theory and deployment, and I’m open to opportunities as a Machine Learning Engineer, Applied Researcher, or Data Scientist focused on real-world impact.
 
 
 ## Skills
