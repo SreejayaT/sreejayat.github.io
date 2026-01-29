@@ -1,5 +1,5 @@
 # Sreejaya T
-### Data Scientist | Machine Learning | Computer Vision
+### Machine Learning | Deep Learning | Computer Vision
 
 Passionate about the space where research meets real-world applications. With a background that blends science, data, and AI, I explore how machine learning and deep learning can turn complex information into meaningful insights.
 Always curious, always learning, and always open to conversations about AI, applied research, and innovation.
@@ -29,8 +29,8 @@ My interests include building ML pipelines and model development for research fo
 **Result:** Binary classification of healthy vs diseased regions 
 
 ### Smart Weather Gradio
- - Built a gradio interface that takes input weather data and outputs messages or warnings for the given data.
- - Used automated data retrieval from live API calls and visualized (Requests, Geopy, Pandas and Matplotlib)
+ - Built a gradio interface that takes input weather data and outputs messages or warnings for the present data.
+ - Used automated data retrieval from live API calls and visualized (Tools/Libraries: Requests, Geopy, Pandas and Matplotlib)
 🔗 **GitHub Repository:**  
 [Smartweather_Gradio](https://github.com/SreejayaT/Smartweather_Gradio)
 
