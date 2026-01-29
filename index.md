@@ -4,37 +4,49 @@
 Passionate about the space where research meets real-world applications. With a background that blends science, data, and AI, I explore how machine learning and deep learning can turn complex information into meaningful insights.
 Always curious, always learning, and always open to conversations about AI, applied research, and innovation.
 
----
+
 
 ## About
-I work on image processing, multispectral data, and deep learning models.
-My interests include building ML pipelines and model development for research focused tasks.
----
+With a foundation in science and hands-on experience in machine learning and deep learning, my work spans the full ML lifecycle—dataset generation and curation, preprocessing and labeling, baseline CNN modeling, hybrid CNN–Vision Transformer architectures, training, evaluation, and analysis—with a strong emphasis on reproducibility and experimentation.
+
+I’m particularly interested in applied ML and research-driven roles where understanding model behavior is as important as performance. I enjoy working on problems that bridge theory and deployment, and I’m open to opportunities as a Machine Learning Engineer, Applied Researcher, or Data Scientist in teams that value thoughtful innovation, rigorous experimentation, and real-world impact.
+
 
 ## Skills
 - **Programming:** Python, NumPy, Pandas
 - **ML/DL:** PyTorch, CNNs, Vision Transformers
-- **Computer Vision:** UAV imagery, orthomosaics, NDVI
+- **Computer Vision:** UAV imagery, orthomosaics
 - **Geospatial:** Raster data, GeoTIFF
 - **Tools:** Git, Linux, Jupyter
 
----
+
 
 ## Projects
 
-### Disease Detection in UAV Imagery
-**Problem:** Identify diseased regions in orthomosaic imagery  
-**Data:** Multispectral UAV images  
-**Method:** Subplot extraction, CNN / ViT models  
-**Result:** Binary classification of healthy vs diseased regions 
+### Disease Detection in UAV Imagery                                              
+ - Built an end-to-end deep learning pipeline covering dataset generation, model training, and evaluation.
+
+ - Designed a custom dataset creation workflow with structured splits and reproducibility.
+
+ - Implemented CNN-based baseline models for spatial feature learning.
+
+ - Developed hybrid CNN–Vision Transformer (ViT) architectures - BEiT, LeViT, ResNet, EfficientNetV2,  to capture both local and global representations.
+
+ - Performed comparative experiments to analyze performance, convergence, and generalization across models.
 
 ### Smart Weather Gradio
- - Built a gradio interface that takes input weather data and outputs messages or warnings for the present data.
- - Used automated data retrieval from live API calls and visualized (Tools/Libraries: Requests, Geopy, Pandas and Matplotlib)
-🔗 **GitHub Repository:**  
-[Smartweather_Gradio](https://github.com/SreejayaT/Smartweather_Gradio)
+ - Developed an interactive weather advisory application using real-time and forecasted weather data from public APIs.
 
----
+ - Implemented location-aware and time-based analysis, including timezone and daylight considerations.
+
+ - Built time-series forecasting and trend visualizations to support weather insights.
+
+ - Designed a user-friendly interface using Gradio for interactive user input and output.
+   
+🔗 **GitHub Repository:**  
+   [Smartweather_Gradio](https://github.com/SreejayaT/Smartweather_Gradio)
+
+
 
 ## Contact
 - Email: sreejayarajeev2000@gmail.com
