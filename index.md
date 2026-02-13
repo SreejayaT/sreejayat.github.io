@@ -33,6 +33,9 @@ I’m interested in applied ML and research-driven roles that bridge theory and 
  - Developed hybrid CNN–Vision Transformer (ViT) architectures - BEiT, LeViT, ResNet, EfficientNetV2,  to capture both local and global representations.
 
  - Performed comparative experiments to analyze performance, convergence, and generalization across models.
+   
+🔗 **GitHub Repository:**  
+   [UAV_Paddy_Disease_Detetction](https://github.com/SreejayaT/UAV_paddy_disease_detection)
 
 ### Smart Weather Gradio
  - Developed an interactive weather advisory application using real-time and forecasted weather data from public APIs.
