@@ -13,11 +13,13 @@ I’m interested in applied ML and research-driven roles that bridge theory and 
 
 
 ## Skills
-- **Programming:** Python, NumPy, Pandas
-- **ML/DL:** PyTorch, CNNs, Vision Transformers
-- **Computer Vision:** UAV imagery, orthomosaics
-- **Geospatial:** Raster data, GeoTIFF
-- **Tools:** Git, Linux, Jupyter
+- **Programming:** Python
+- **Data Science & Machine Learning:** Scikit-learn, Model Evaluation,SHAP
+- **Data Analysis & Data Visualization:** Pandas, NumPy, Exploratory Data Analysis, Matplotlib, Seaborn
+- **Deep Learning:** PyTorch, CNNs, Vision Transformers
+- **Computer Vision:** UAV imagery, 
+- **Geospatial:** Raster data, GeoTIFF, GDAL
+- **Tools:** GitHub, Linux, Jupyter
 
 
 
