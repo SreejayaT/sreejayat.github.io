@@ -50,6 +50,22 @@ I’m interested in applied ML and research-driven roles that bridge theory and 
    [Smartweather_Gradio](https://github.com/SreejayaT/Smartweather_Gradio)
 
 
+### Predicting Online Shopper Purchase Intent
+
+- Developed a machine learning model to predict whether a user session on an e-commerce website will result in a purchase, enabling identification of high-intent customers for targeted marketing.
+
+- Performed EDA and behavioral analysis to identify key engagement features influencing conversion.
+
+- Achieved ROC-AUC ≈ 0.92 using XGBoost after model tuning and threshold optimization.
+
+- Applied SHAP explainability to interpret feature importance and user behavior patterns.
+
+- Segmented users into Low, Medium, and High purchase intent groups based on predicted probabilities.
+
+🔗 **GitHub Repository:** 
+   [Ecommerce_purchase_prediction](https://github.com/SreejayaT/Ecommerce_purchase_prediction)
+
+
 
 ## Contact
 - Email: sreejayarajeev2000@gmail.com
